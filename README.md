@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **JavaScript, React, C++, Java, Frontend and Backend**
+- 💬 Ask me about **JavaScript, React, MongoDB, Expressjs, Nodejs, TailwindCSS**
 
 - 📫 How to reach me **dhrumilbhut@gmail.com**
 
