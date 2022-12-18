@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhrumil</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, React, MongoDB, Expressjs, Nodejs, TailwindCSS**
+- 💬 Interested in  **MERN Stack**
 
 - 📫 How to reach me **dhrumilbhut@gmail.com**
 
